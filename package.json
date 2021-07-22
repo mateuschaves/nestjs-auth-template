@@ -1,7 +1,7 @@
 {
-  "name": "clinic-backend",
-  "version": "0.0.1",
-  "description": "Clinic backend",
+  "name": "nestjs-auth-template",
+  "version": "1.0.0",
+  "description": "NestJS Auth Template",
   "author": "mateushenriquechaves1@gmail.com",
   "private": false,
   "license": "MIT",
